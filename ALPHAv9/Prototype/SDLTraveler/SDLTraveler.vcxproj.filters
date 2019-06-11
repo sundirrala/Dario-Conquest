@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EyeBeam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Health.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Goomba.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Eyesplosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EyeBeam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="dariosprites.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="EyeDeath.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Goomba.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Goomblast.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gameOver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eyeBeam.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Logo3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="level1bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="level2bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="level3bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Level1Platform.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Rose%27s Folder\Personal Projects\ALPHAv05\Prototype\SDLTraveler\SunshineStart.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Rose%27s Folder\Personal Projects\ALPHAv05\Prototype\SDLTraveler\Beer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Rose%27s Folder\Personal Projects\ALPHAv05\Prototype\SDLTraveler\Credits.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\stage1.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Downloads\Level1Platform.png">
+      <Filter>Header Files</Filter>
+    </Image>
+    <Image Include="Door_Sprite.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pause.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pauseBG.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="boom.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="jump.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="fire.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="splat.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="crack.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="buzz.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Dario-SongBG_1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Slash.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Combat.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Continue.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="fiee.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Gun.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Alien.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Pixelation.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="SuperMario256.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

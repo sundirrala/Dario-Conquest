@@ -1,0 +1,11 @@
+﻿  Game.cpp
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Enemy.h(113): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Enemy.h(114): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Player.h(99): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Player.h(110): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Player.h(111): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Player.h(117): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Level.h(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Level.h(225): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Jesse\Documents\GBC\0.09\Prototype\SDLTraveler\Level.h(245): warning C4018: '>': signed/unsigned mismatch
+  SDLTraveler.vcxproj -> C:\Users\Jesse\Documents\GBC\0.09\Prototype\Debug\SDLTraveler.exe
